@@ -6,7 +6,7 @@
     * As an efficient command-line application
     * And his very tedious work of documentation on [condorcet.io](https://www.condorcet.io)
   * [Condorcet Election Format](https://github.com/CondorcetPHP/CondorcetElectionFormat) A new standard file format for representing the configuration and data of an election. Designed to be portable between programs, easily readable and editable by a human and formally interpretable by a machine.
-  * [Condorcet.Vote](https://www.condorcet.vote) A badly coded (but 100% from scratch), never finished, but very fast and efficient web demo of [Condorcet](https://github.com/julien-boudry/Condorcet) implementation.
+  * [desktop.Condorcet.Vote](https://www.condorcet.vote) A web interface implementation of Condorcet PHP project.
   * And others tools
 
 * Some hacks and mini-tools. Mostly about encryption, secret sharing, video encoding.
